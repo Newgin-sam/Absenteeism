@@ -1,1 +1,1 @@
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/tableau analysis pic.png?raw=true)
+![alt text](https://github.com/Newgin-sam/Absenteeism/blob/main/tableau analysis pic.png?raw=true)
